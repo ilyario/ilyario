@@ -1,4 +1,4 @@
-### <div align="center">👋 Hello I'm Ilya Ponomarev, <br> a Backend Software Engineer 🧑🏻‍💻</div>  
+### <div align="center">👋 Hello I'm Ilya Ponomarev, <br> a Software and DevOps Engineer 🧑🏻‍💻</div>  
 
 <br/>  
 
